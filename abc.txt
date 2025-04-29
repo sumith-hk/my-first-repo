@@ -1,4 +1,5 @@
 1st version of git my name is sumith
 new line added
 second line added via github
+i resolved conflicts and updated
 
