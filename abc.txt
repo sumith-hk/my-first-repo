@@ -8,5 +8,6 @@ main branch created
 
 betala branch is created
 sumith branch is created and sending a merge request
+ sending text from yashu  commuter 
 
 
