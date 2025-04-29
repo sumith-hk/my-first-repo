@@ -1,1 +1,2 @@
 1st version of git my name is sumith
+new line added
